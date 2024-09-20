@@ -9,4 +9,4 @@ La phase de modélisation applique et compare plusieurs algorithmes sur des donn
 Enfin, le projet se termine par l'implémentation d'une interface graphique permettant une utilisation pratique du modèle prédictif pour les utilisateurs finaux.
 
 
-[Watch the demo video](https://www.youtube.com/watch?v=example)
+[Test1](https://github.com/nessrine-lafhal/Application-of-Machine-Learning-Algorithms-in-Heart-Attack-Prediction/blob/main/images.png)
