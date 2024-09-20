@@ -7,6 +7,7 @@ La méthodologie présente les techniques d'apprentissage automatique utilisées
 La phase de modélisation applique et compare plusieurs algorithmes sur des données d'entraînement et de test pour évaluer leur performance, en se basant sur des métriques comme l'accuracy, la précision, le rappel, et le F1-score. Les résultats incluent une analyse des courbes ROC et PR, ainsi que l'optimisation des hyperparamètres pour améliorer la précision des prédictions.
 
 Enfin, le projet se termine par l'implémentation d'une interface graphique permettant une utilisation pratique du modèle prédictif pour les utilisateurs finaux.
+![Alt text](https://github.com/nessrine-lafhal/Application-of-Machine-Learning-Algorithms-in-Heart-Attack-Prediction/blob/main/images.png)
 
 
-[Test1](https://github.com/nessrine-lafhal/Application-of-Machine-Learning-Algorithms-in-Heart-Attack-Prediction/blob/main/images.png)
+
